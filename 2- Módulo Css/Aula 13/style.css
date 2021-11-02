@@ -1,0 +1,34 @@
+body{
+    background: #dfdfdf;
+}
+
+p{ 
+    color:rgb(34, 34, 34);
+
+    margin-top: 0% ;
+}
+h3{
+    margin-bottom: 0%;
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #FFFFFF ;/*shorthand*/
+    border-radius: 50% ;
+       /*  border-width: 5px
+        border-style: solid 
+        border-color: black
+
+    */  
+  
+    margin: 30px 30px 30px 30px ;
+      /*margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left: 600px;*/
+
+    padding: 10px;
+
+
+
+ 
+}
